@@ -1,4 +1,4 @@
-Oii, sou o Gustavo Gomes
+## Oii, sou o Gustavo Gomes
 
 - 🔭 Hoje eu trabalho como Assistente de Planejamentos.
 - 🌱 Estudando Engenharia da Computação
