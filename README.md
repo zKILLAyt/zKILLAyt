@@ -1,8 +1,11 @@
-## Oii, sou o Gustavo Gomes
+## 👋 Hi! I'm Gustavo Gomes.
+I'm a technology enthusiast, passionate about programming, web development, and creating useful tools for everyday life.
 
-- 🔭 Hoje eu trabalho como Assistente de Planejamentos.
-- 🌱 Estudando Engenharia da Computação
-- 😄 Pronouns: ele/dele
+🚀 I enjoy turning ideas into practical solutions — whether it's building APIs, personal finance tracking systems, or creative websites with a touch of emotion (including special projects for special people 💜).
+
+🔭 Currently working as a Planning Assistant.
+🌱 Studying Computer Engineering
+😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/zKILLAyt">
