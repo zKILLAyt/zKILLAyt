@@ -9,7 +9,7 @@ I'm a technology enthusiast, passionate about programming, web development, and 
 
 <div>
   <a href="https://github.com/zKILLAyt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zKILLAyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=zKILLAyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKILLAyt&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
