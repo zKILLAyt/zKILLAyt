@@ -3,7 +3,6 @@ I'm a technology enthusiast, passionate about programming, web development, and 
 
 🚀 I enjoy turning ideas into practical solutions — whether it's building APIs, personal finance tracking systems, or creative websites with a touch of emotion (including special projects for special people 💜).
 
-🔭 Currently working as a Planning Assistant.
 🌱 Studying Computer Engineering
 😄 Pronouns: he/him
 
