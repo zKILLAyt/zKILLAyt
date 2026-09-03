@@ -1,29 +1,49 @@
-## 👋 Hi! I'm Gustavo Gomes.
-I'm a technology enthusiast, passionate about programming, web development, and creating useful tools for everyday life.
+## Maintainer profile
 
-🚀 I enjoy turning ideas into practical solutions — whether it's building APIs, personal finance tracking systems, or creative websites with a touch of emotion (including special projects for special people 💜).
+<p><code>zkillayt@github:~$ whoami</code></p>
 
-🌱 Studying Computer Engineering
-😄 Pronouns: he/him
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=zkillayt&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162836750%3Fu%3D2c33723caca570016c7e4abe134311f7081254f1%26v%3D4&style=terminal" alt="zkillayt hero visual" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+**Gustavo Ferreira Gomes** · Open-source maintainer
 
-##
+## Why I build in public
 
-<div> 
-  <a href="https://www.youtube.com/@zkilla_yt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/htp_gu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-gomes-a92389257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zKILLAyt/zKILLAyt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zKILLAyt/zKILLAyt/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
- 
-</div>
+> Computer Engineering student | Planning Assistant | Focused on web development, data analysis, and automation | he/him
+
+- 📍 Based in **Santa Catariana**
+- 🏢 Working at **AZL**
+- 👥 **0** followers · **1** following
+
+**Open to:** thoughtful collaboration and useful open source
+
+## Open-source toolbox
+
+<p><code>zkillayt@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=zkillayt&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162836750%3Fu%3D2c33723caca570016c7e4abe134311f7081254f1%26v%3D4&style=terminal" alt="zkillayt stack visual" />
+</p>
+
+## Repositories
+
+- [zKILLAyt](https://github.com/zKILLAyt/zKILLAyt) — open source · 0 stars
+
+## Contribution activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=zkillayt&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162836750%3Fu%3D2c33723caca570016c7e4abe134311f7081254f1%26v%3D4" alt="zkillayt stats visual" />
+</p>
+
+<p><code>88 contributions</code> · <code>0 day streak</code></p>
+
+## Find me in the community
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=zkillayt&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162836750%3Fu%3D2c33723caca570016c7e4abe134311f7081254f1%26v%3D4" alt="zkillayt social visual" />
+</p>
+
+<a href="https://github.com/zkillayt">GitHub</a>
+
+<p align="center"><sub>Gustavo Ferreira Gomes · Open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
