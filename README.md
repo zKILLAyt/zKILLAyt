@@ -14,7 +14,6 @@
 
 - 📍 Based in **Santa Catariana**
 - 🏢 Working at **Machado Contabilidade**
-- 👥 **0** followers · **1** following
 
 **Open to:** thoughtful collaboration and useful open source
 
