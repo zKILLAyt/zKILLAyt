@@ -13,7 +13,7 @@
 > Computer Engineering student | Planning Assistant | Focused on web development, data analysis, and automation | he/him
 
 - 📍 Based in **Santa Catariana**
-- 🏢 Working at **AZL**
+- 🏢 Working at **Machado Contabilidade**
 - 👥 **0** followers · **1** following
 
 **Open to:** thoughtful collaboration and useful open source
