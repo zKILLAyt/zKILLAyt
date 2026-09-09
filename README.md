@@ -148,8 +148,12 @@ I'm learning with a **hands-on approach**: build → break → understand → im
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zKILLAyt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gustavo's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKILLAyt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zKILLAyt&theme=github_dark" alt="Gustavo's GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zKILLAyt&theme=github_dark" alt="Gustavo's GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zKILLAyt&theme=github_dark" alt="Top languages" />
 </div>
 
 ---
